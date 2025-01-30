@@ -1,0 +1,29 @@
+:root {
+  /* COLORS */
+  --background-body-color: hsl(47, 88%, 63%);
+  --background-card-color: hsl(0, 0%, 100%);
+  --text-dark-color: hsl(0, 0%, 7%);
+  --text-medium-color: hsl(0, 0%, 42%);
+  --text-decoration-color: hsl(47, 88%, 63%);
+
+  /* TITLE FORMAT 1 */
+  --title-font-size: 24px;
+  --title-font-weight: 800;
+  --title-line-height: 150%;
+  --title-letter-spacing: 0px;
+
+  /* TEXT FORMAT 2 */
+  --text2-font-size: 16px;
+  --text2-font-weight: 500;
+  --text2-line-height: 150%;
+  --text2-letter-spacing: 0px;
+
+  /* TEXT FORMAT 3 */
+  --text3-font-size: 14px;
+  --text3-font-weight: 500;
+  --text3-line-height: 150%;
+  --text3-letter-spacing: 0px;
+
+  /* TEXT FORMAT 3 BOLD */
+  --text3bold-font-weight: 800;
+}
