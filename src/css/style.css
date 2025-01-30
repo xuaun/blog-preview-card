@@ -109,7 +109,7 @@ body {
 
 .attribution {
   font-size: 11px;
-  color: hsl(216, 15%, 48%);
+  color: var(--text-medium-color);
   text-align: center;
   position: fixed;
   bottom: 0;
