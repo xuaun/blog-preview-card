@@ -86,7 +86,7 @@ Esta é uma solução para o [desafio do cartão de pré-visualização do blog 
 
 - [Visão Geral](#visão-geral)
   - [Desafio](#desafio)
-  - [Print](#prints)
+  - [Print](#print)
   - [Links](#links-pt)
 - [Meu processo](#meu-processo)
   - [Tecnologias utilizadas](#tecnologias-utilizadas)
