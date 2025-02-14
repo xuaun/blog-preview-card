@@ -78,7 +78,7 @@ ____
 
 ## Contexto
 
-Esta é uma solução para o [desafio do cartão de pré-visualização do blog no Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação construindo projetos realistas.
+Esta é uma solução para o [desafio do cartão de pré-visualização do blog no Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação construindo projetos realistas.
 
 > Seu desafio é construir este cartão de pré-visualização do blog e fazê-lo parecer o mais próximo possível do design.
 
